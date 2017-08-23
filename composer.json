@@ -2,10 +2,10 @@
 	"name":"joke/myjoke",
 	"description":"A demo of test upload file to github and agist.org",
 	"license":"MIT",
-	"authors":{
+	"authors":[{
 	 	"name":"liluhua",
 	 	"email":"1397345479@qq.com"
-	},
+	}],
 	"minimum-stability":"stable",
 	"require":{
 		"php":">=5.3.0"
